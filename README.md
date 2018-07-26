@@ -1,5 +1,4 @@
 # PDFKit-Basic
-# BookReader
 Sample code for PDFKit on iOS 11. Customize to use inside your project.
 
 ----------------
