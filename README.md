@@ -25,7 +25,5 @@ iOS 11.0 and Xcode 9
 
 The easiest way to import your PDFs is to email your PDF file to your iOS device. Navigate to the email and ensure that the attachment is there. Tap and hold the document attachment icon. This should open a popover on the iPad, or an action sheet on the iPhone, that shows all of the apps that open your document type. BookReader app should show up in the list. Tap BookReader app icon and BookReader app should launch and receive the document from the email.
 
-<img src="Resources/05_OpenIn.png" style="width: 300px; height: 534px;" width="300" height="534"></img>
-
 ## Author
 Vaibhav Bansod, bansodv04@gmail.com
