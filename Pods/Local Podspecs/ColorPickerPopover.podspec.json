@@ -1,0 +1,24 @@
+{
+  "name": "ColorPickerPopover",
+  "version": "0.0.1",
+  "summary": "Color Picker inside NSPopover",
+  "homepage": "https://github.com/OskarGroth/ColorPickerPopover",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Oskar Groth": "oskar@cindori.org"
+  },
+  "source": {
+    "git": "https://github.com/OskarGroth/ColorPickerPopover.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "osx": "10.9"
+  },
+  "source_files": "ColorPicker/*.{swift}",
+  "requires_arc": true,
+  "screenshots": "https://s3.amazonaws.com/cindori/images/colorpicker.png",
+  "social_media_url": "https://twitter.com/cindoriapps"
+}

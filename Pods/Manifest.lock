@@ -1,0 +1,28 @@
+PODS:
+  - EFColorPicker (1.1.0)
+  - MKColorPicker (1.2)
+  - UIScreenCapture (0.0.5)
+  - "UIView+draggable (1.1.0)"
+
+DEPENDENCIES:
+  - EFColorPicker
+  - MKColorPicker
+  - UIScreenCapture (~> 0.0.5)
+  - "UIView+draggable"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EFColorPicker
+    - MKColorPicker
+    - UIScreenCapture
+    - "UIView+draggable"
+
+SPEC CHECKSUMS:
+  EFColorPicker: 214e1979a4017245375b1e276cba952d902b8132
+  MKColorPicker: 8998b2ab977e4f240fdf254db27a18b810da3cfc
+  UIScreenCapture: eb4d511e063eb5b5d84ac986e08cb842b56f8ccf
+  "UIView+draggable": ddfbeb6bdfdeba63d9ccf32dc9be2b66cc589717
+
+PODFILE CHECKSUM: d58f532e16c088cb66f40677c114c424da8b2c11
+
+COCOAPODS: 1.5.3
